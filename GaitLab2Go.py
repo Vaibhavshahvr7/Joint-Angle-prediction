@@ -12,8 +12,8 @@ from scipy.io import loadmat
 
 class data_processing(object):
     """ GaitLab2Go Envrioment and Data Proccesing file:
-    Shah, V. R., Dixon, P. C. (2024). Gait Speed and Task-Specificity in Predicting Lower-Limb Kinematics: A Deep Learning Approach Using Inertial Sensors. 
-    
+    Shah, V. R., Dixon, P. C. (2024). Gait Speed and Task-Specificity in Predicting Lower-Limb Kinematics: A Deep Learning Approach Using Inertial Sensors.
+    """
     def __init__(self):
         self.enviroment='GaitLab2Go'
 
