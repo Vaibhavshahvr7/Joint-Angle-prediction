@@ -26,11 +26,8 @@ Notebook Execution: Follow the steps in the notebook to:
 
 Load and preprocess IMU data.
 
-# Download the folder using the bellow link and upload it in to your google drive.
-
-https://drive.google.com/drive/folders/1kS1hnL9cWWvhvKcsM0ocJgO_j4XArwUv?usp=sharing
-
-Apply filtering to smooth the sensor signals.
+**
+Apply filtering to smooth the sensor signals.**
 Generate joint angle predictions for the hip, knee, and ankle.
 Saving Processed Data: Processed data and predictions are saved as .pkl files, ready for further analysis or model training.
 
