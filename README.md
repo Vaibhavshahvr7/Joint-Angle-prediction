@@ -1,5 +1,7 @@
 # Joint-Angle-prediction
 
+Shah, V. R., & Dixon, P. C. (2025). Gait Speed and Task Specificity in Predicting Lower-Limb Kinematics: A Deep Learning Approach Using Inertial Sensors. Mayo Clinic Proceedings: Digital Health, 3(1), 100183. https://doi.org/10.1016/j.mcpdig.2024.11.004
+
 Joint Angle Prediction with IMU Sensor Data - Jupyter Notebook
 This repository contains a Jupyter Notebook that demonstrates a workflow for processing IMU sensor data and predicting joint angles (hip, knee, and ankle) using feature extraction, filtering, and prediction techniques.
 
